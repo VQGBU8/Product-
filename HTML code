@@ -1,0 +1,33 @@
+<div class="wrapper">
+  <div class="card">
+    <input type="checkbox" id="card1" class="more" aria-hidden="true">
+    <div class="content">
+      <div class="front" style="background-image: url('https://i5.walmartimages.com/seo/Large-Travel-Backpack-Women-Men-Carry-On-Backpack-Hiking-Backpack-Waterproof-Outdoor-Sports-Casual-Daypack-Fit-15-6-Inch-Laptop-School-Bag-Pink_95381514-5f93-48a9-bd79-586ff014b238.bc4836c77555d8580eb5d42cd05618f4.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF')">
+        <div class="inner">
+          <h2>AdventurePro Travel Backpack</h2>
+          <div class="rating">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="far fa-star"></i>
+          </div>
+          <label for="card1" class="button" aria-hidden="true">Details</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <div class="description">
+            <p>Durable, water-resistant fabric</p>
+            <p>Spacious 35L capacity</p>
+            <p>Smartly designed compartments</p>
+            <p>Comfortable, ergonomic fit</p>
+            <p>Built to last, light to carry</p>
+            <p>Price only for $89.99</p>
+            <p>4.8 out of 5 stars from 1200+ reviews</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
